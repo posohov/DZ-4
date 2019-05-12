@@ -1,7 +1,6 @@
 .body {
     width: 600px;
     height: 1200px;
-   background: green;
     border: 1px solid black;
     margin: 0 auto;
 }
@@ -17,7 +16,7 @@
 .figure {
     width: 200px;
     height: 100px;
-    background: red;
+    
 
 }
 
