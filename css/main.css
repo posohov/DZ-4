@@ -1,27 +1,52 @@
 .body {
-    width: 600px;
+    width: 1000px;
     height: 2100px;
     border: 1px solid black;
     margin: 0 auto;
 }
 
 .product {
-	width: 500px;
-	height: 500px;
-	background: blue;
-	  padding: 20px;
+    width: 500px;
+    height: 500px;
+    background: blue;
+    padding: 20px;
 
 }
 
 .figure {
     width: 200px;
     height: 100px;
-    
+
 
 }
 
-.first {
+.first_1 {
     padding: 20px;
-
-    background-color: red;
+    margin: 50px;
+    background-color: blue;
+    color: white;
 }
+
+.second {
+    float: left;
+    margin-right: 50px;
+    margin-left: 20px;
+
+
+}
+
+.img_1 {
+    display: block;
+    margin: 0 auto;
+
+}
+.first_2{
+    color: blue;
+    margin-left: 80px;
+}
+.second_2 {
+    float: left;
+}
+/*.img_2 {
+    float: right;
+}*/
