@@ -29,7 +29,7 @@
 
 .second {
     float: left;
-    margin-right: 50px;
+    margin-right: 190px;
     margin-left: 20px;
 
 
@@ -40,13 +40,42 @@
     margin: 0 auto;
 
 }
-.first_2{
+
+.first_2 {
     color: blue;
     margin-left: 80px;
+    margin-bottom: 80px;
 }
+
 .second_2 {
     float: left;
+    width: 400px;
+    margin-right: 120px;
 }
+
 /*.img_2 {
     float: right;
 }*/
+.center {
+    text-align: center;
+}
+
+.first_3 {
+    color: blue;
+    margin-top: 80px;
+}
+
+.second_21 {
+    float: left;
+    width: 400px;
+
+    margin-right: 50px;
+}
+
+.second_22 {
+    margin-top: 35px;
+    margin-right: 55px;
+}
+.second_411 {
+    float:left;
+}
