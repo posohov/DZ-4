@@ -1,5 +1,5 @@
 .body {
-    width: 1000px;
+    width: 1100px;
     height: 2100px;
     border: 1px solid black;
     margin: 0 auto;
@@ -67,7 +67,7 @@
 
 .second_21 {
     float: left;
-    width: 400px;
+    width: 460px;
 
     margin-right: 50px;
 }
@@ -76,6 +76,51 @@
     margin-top: 35px;
     margin-right: 55px;
 }
+.first_4 {
+    position: relative;
+}
+
+.second_41 {
+    width: 450px;
+
+
+}
+
 .second_411 {
-    float:left;
+    float: left;
+    margin-right: 30px;
+}
+
+/*.second_412 {
+    float: left;
+}
+*/
+ .second_414 {
+
+    margin-right: 20px;
+}
+.second_413 {
+    margin-right: 50px
+}
+.second_42 {
+    width: 450px;
+    position: absolute;
+    bottom:280px;
+    left: 500px;
+}
+
+.second_43 {
+    width: 450px;
+}
+
+.second_44 {
+    width: 450px;
+    position: absolute;
+    bottom: 50px;
+    left: 500px;
+}
+.left {
+    margin-left: 50px;
+    text-align: top
+
 }
